@@ -9,3 +9,23 @@
  .gray-scale{
     filter: grayscale(100%);
  }
+ .ask-img{
+   width: 431.2px;
+   height: 423.5px;
+ }
+ .color-specific{
+   color: #E76F51;
+ }
+ .fa-star{
+  color: #E76F51;
+ }
+ .btn-Purchase {
+    background-color: #E76F51;
+    border-radius: 5px;
+    color: white;
+ }
+ .icon-img{
+    width: 78px;
+    height: 82px;
+
+ }
