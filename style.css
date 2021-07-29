@@ -1,0 +1,11 @@
+.honda-bg{
+    background-color:#264653; 
+ }
+ .card-img-top {
+ width: 149px;
+ height: 149px;
+ }
+ 
+ .gray-scale{
+    filter: grayscale(100%);
+ }
